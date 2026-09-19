@@ -1,2 +1,4 @@
-# Frozen-In-Time--OS
-Frozen in Time OS is a portable digital time-machine project that recreates past computing eras with TimeNet, AI contacts, retro software, and date-locked internet experiences. Users will choose a year, date, OS, and friends, then enter a living digital past. Early prototype now; target release is late 2026 to early 2027. Follow progress!
+Frozen In Time OS is a USB‑bootable digital time machine that recreates the computing experience of past eras including the look, feel, culture, and internet of years like 1999, 2005, 2007, 2010, and 2011.
+
+It does not replace Windows, modify system files, or distribute copyrighted operating systems.
+Instead, it layers a curated, era‑accurate environment on top of your own legally‑owned systems.
